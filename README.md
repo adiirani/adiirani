@@ -1,3 +1,5 @@
+![adiirani](https://socialify.git.ci/adiirani/adiirani/image?font=Source%20Code%20Pro&language=1&logo=https%3A%2F%2Fi.makeagif.com%2Fmedia%2F5-14-2017%2FkiFczG.gif&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto)
+
 <h1 align="center">👋 Hi, I'm Adi Irani</h1>
 <h3 align="center">Cybersecurity enthusiast, AI/ML code monkey, professional freelance full stack developer, high school student.</h3>
 
