@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adi Irani</h1>
+<h1 align="center">👋 Hi, I'm Adi Irani</h1>
 <h3 align="center">Cybersecurity enthusiast, AI/ML code monkey, professional freelance full stack developer, high school student.</h3>
 
 - 🔭 Current Project: **Hyperion v0.0.0**. Fully-hackable, open-source AI/ML library, written to be used on mobile engines and offline devices, which is also intended for beginners.
 
-- 🌱 I’m currently learning: **Unreal Engine, C, Rust, React Native**
+- 🌱 I’m currently learning: **Unreal Engine, C, Rust, React Native, Swift, among others**
 
 - 📫 How to reach me: **adi_irani@outlook.com (NO SPAM!!!).**
 
