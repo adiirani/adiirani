@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **Unreal Engine, C, Rust, React Native, Swift, among others**
 
-- 📫 How to reach me: **adi_irani@outlook.com (NO SPAM!!!).**
+- 📫 How to reach me: **don't (probably put a comment or something somewhere and i'll find it).**
 
 - ⚡ Fun fact: **Most projects of mine are hacked together in like a week (but they somehow work #programmingAmirite).**
   
