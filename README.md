@@ -1,17 +1,13 @@
 ![adiirani](https://socialify.git.ci/adiirani/adiirani/image?font=Source%20Code%20Pro&language=1&logo=https%3A%2F%2Fi.makeagif.com%2Fmedia%2F5-14-2017%2FkiFczG.gif&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto)
 
-<h1 align="center">👋 Hi, I'm Adi Irani</h1>
-<h3 align="center">Cybersecurity enthusiast, AI/ML code monkey, professional freelance full stack developer, high school student.</h3>
+<h1 align="center">Adi Irani</h1>
+<h3 align="center">i forgot how to code. just kidding :P </h3>
 
-- 🔭 Current Project: **Hyperion v0.0.0**. Fully-hackable, open-source AI/ML library, written to be used on mobile engines and offline devices, which is also intended for beginners.
+- 🔭 Current Project: **TBD**
 
-- 🌱 I’m currently learning: **Unreal Engine, C, Rust, React Native, Swift, among others**
+- 📫 How to reach me: **Email at adi_irani@outlook.com or via linkedin**
 
-- 📫 How to reach me: **don't (probably put a comment or something somewhere and i'll find it).**
-
-- ⚡ Fun fact: **Most projects of mine are hacked together in like a week (but they somehow work #programmingAmirite).**
   
-- 💡Got an idea for something interesting? **I'm bored, suggest it to me!**
   
 
 <h3 align="left">Languages and Tools:</h3>
